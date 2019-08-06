@@ -6,12 +6,12 @@
 </template>
 
 <script>
-import Booklist from './components/Booklist';
+import BookList from './components/BookList';
 
 export default {
   name: 'app',
   components: {
-    Booklist,
+    BookList,
   },
 };
 </script>
