@@ -12,12 +12,11 @@
 </template>
 
 <script>
-import Bookitem from'./BookItem';
+import BookItem from'./BookItem';
 export default {
   name: 'BookList',
   components: {
-      Bookitem
-
+      BookItem
   },
   data(){
       return {
